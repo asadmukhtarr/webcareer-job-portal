@@ -1,59 +1,357 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🚀 WebCareer - Full Stack Job Portal & Career Management System
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-## About Laravel
+## 📌 Project Overview
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+**WebCareer** is a production-ready **Full Stack Job Portal & Career Management System** built using **Laravel, PHP, Bootstrap 5, JavaScript, HTML5, CSS3, and MySQL**.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+The platform provides a complete hiring ecosystem where **Employers** can create company profiles, publish job vacancies, manage applicants, and monitor recruitment, while **Job Seekers** can search jobs, apply online, upload resumes, manage profiles, and track their applications.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+This project demonstrates real-world software architecture, clean UI/UX, authentication, authorization, responsive layouts, relational databases, and scalable Laravel development practices.
 
-## Learning Laravel
+---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+# ✨ Key Features
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## 👨‍💼 Employer Features
 
-## Laravel Sponsors
+- Company Profile Management
+- Company Logo Upload
+- Create New Job
+- Edit Job
+- Delete Job
+- View Job Details
+- Manage Posted Jobs
+- View Applicants
+- Dashboard Analytics
+- Job Status Management
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+---
 
-### Premium Partners
+## 👤 Job Seeker Features
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+- User Registration & Login
+- Professional Dashboard
+- Complete Profile Management
+- Resume Upload
+- Search Jobs
+- Apply Online
+- Saved Jobs
+- Track Applied Jobs
+- Account Settings
 
-## Contributing
+---
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## 💼 Job Management
 
-## Code of Conduct
+- Publish New Jobs
+- Salary Range
+- Experience Level
+- Job Categories
+- Job Types
+- Vacancies
+- Skills Required
+- Job Description
+- Requirements
+- Company Information
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+---
 
-## Security Vulnerabilities
+## 🔍 Advanced Search & Filters
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+- Keyword Search
+- Location Search
+- Full-Time Jobs
+- Part-Time Jobs
+- Remote Jobs
+- Contract Jobs
+- Internship Jobs
+- Experience Filter
+- Salary Filter
+- Date Posted Filter
 
-## License
+---
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## 📊 Dashboard
+
+- Total Jobs
+- Active Jobs
+- Total Views
+- Applicants Count
+- Profile Management
+- Job Statistics
+- Activity Tracking
+
+---
+
+## 🔐 Authentication & Security
+
+- Secure Authentication
+- Role-Based Authorization
+- Session Management
+- Form Validation
+- Password Encryption
+- CSRF Protection
+- Protected Routes
+
+---
+
+## 📱 Responsive Design
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+Built with **Bootstrap 5** to ensure a fully responsive and modern user experience across all devices.
+
+---
+
+# 🛠 Technology Stack
+
+### Backend
+
+- Laravel
+- PHP
+- MySQL
+
+### Frontend
+
+- Bootstrap 5
+- JavaScript (ES6)
+- HTML5
+- CSS3
+
+### Development Tools
+
+- Composer
+- NPM
+- Git
+- GitHub
+
+---
+
+# 📂 Modules
+
+- Landing Page
+- Authentication
+- Employer Dashboard
+- Job Seeker Dashboard
+- Company Management
+- Job Management
+- Available Jobs
+- Job Details
+- Applied Jobs
+- Profile Management
+- Settings
+- About Page
+- Services Page
+- Contact Page
+
+---
+
+# 🎯 Highlights
+
+- Production-Level Architecture
+- Clean MVC Structure
+- Professional UI/UX
+- Fully Responsive Design
+- Reusable Components
+- Scalable Codebase
+- Real-World Recruitment Workflow
+- Employer & Candidate Portals
+- Modern Dashboard
+- Secure Authentication
+- Optimized Database Design
+
+---
+
+# 📸 Screenshots
+
+## 🏠 Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+## 🔐 Login
+
+![Login](screenshots/login.png)
+
+---
+
+## 📝 Register
+
+![Register](screenshots/register.png)
+
+---
+
+## 💼 Available Jobs
+
+![Jobs](screenshots/jobs.png)
+
+---
+
+## 📄 Job Details
+
+![Job Details](screenshots/job-details.png)
+
+---
+
+## ℹ️ About Page
+
+![About](screenshots/about.png)
+
+---
+
+## 🛠 Services
+
+![Services](screenshots/services.png)
+
+---
+
+## 📞 Contact
+
+![Contact](screenshots/contact.png)
+
+---
+
+# 👨‍💼 Employer Dashboard
+
+## 📊 Dashboard
+
+![Dashboard](screenshots/after-login/dashboard.png)
+
+---
+
+## 🏢 Create Company
+
+![Create Company](screenshots/after-login/create-new-company.png)
+
+---
+
+## 💼 Create New Job
+
+![Create Job](screenshots/after-login/create-new-job.png)
+
+---
+
+## 📋 My Jobs
+
+![My Jobs](screenshots/after-login/my-jobs.png)
+
+---
+
+## 📄 Job Details
+
+![Employer Job Details](screenshots/after-login/job-details.png)
+
+---
+
+## 👤 Profile
+
+![Profile](screenshots/after-login/profile.png)
+
+---
+
+## 📝 Applied Jobs
+
+![Applied Jobs](screenshots/after-login/your-applied-jobs.png)
+
+---
+
+## ⚙️ Settings
+
+![Settings](screenshots/after-login/settings.png)
+
+---
+
+# 📁 Project Structure
+
+```
+app/
+bootstrap/
+config/
+database/
+public/
+resources/
+routes/
+storage/
+screenshots/
+```
+
+---
+
+# 🚀 Installation
+
+```bash
+git clone https://github.com/your-username/webcareer-job-portal.git
+
+cd webcareer-job-portal
+
+composer install
+
+cp .env.example .env
+
+php artisan key:generate
+
+php artisan migrate --seed
+
+npm install
+
+npm run build
+
+php artisan serve
+```
+
+---
+
+# 📈 Learning Outcomes
+
+This project demonstrates experience with:
+
+- Laravel MVC Architecture
+- Authentication & Authorization
+- CRUD Operations
+- Role-Based Access Control
+- Database Relationships
+- File Uploads
+- Responsive UI Development
+- Bootstrap 5
+- JavaScript
+- Form Validation
+- Dashboard Development
+- Clean Code Practices
+- Production-Level Project Structure
+
+---
+
+# 🌍 Perfect For
+
+- Full Stack Developer Portfolio
+- Laravel Developer Portfolio
+- Backend Developer Portfolio
+- Germany Job Applications
+- International Software Engineer Applications
+- GitHub Showcase
+- Freelance Portfolio
+
+---
+
+# 👨‍💻 Developer
+
+**Muhammad Asad Mukhtar**
+
+Full Stack Web Developer
+
+Laravel • PHP • JavaScript • Bootstrap • MySQL
+
+---
+
+## ⭐ If you like this project, don't forget to give it a Star!
